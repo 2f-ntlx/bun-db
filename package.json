@@ -1,0 +1,8 @@
+{
+  "name": "bun-db",
+  "module": "app.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.4.0"
+  }
+}
