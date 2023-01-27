@@ -2,6 +2,9 @@
   "name": "bun-db",
   "module": "app.ts",
   "type": "module",
+  "scripts": {
+    "app": "bun run app.ts"
+  },
   "devDependencies": {
     "bun-types": "^0.4.0"
   }
